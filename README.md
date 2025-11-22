@@ -1,5 +1,6 @@
 ### How to run
 
+```
 project/
 ├── backend/
 │   ├── .../
@@ -8,6 +9,7 @@ project/
 └── frontend/
     ├── src/
     └── .../
+```
 
 ## Run backend
 
